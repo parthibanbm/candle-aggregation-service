@@ -1,0 +1,7 @@
+com\example\candles\service\AggregationService.class
+com\example\candles\service\CandleAccumulator.class
+com\example\candles\CandleAggregationApplication.class
+com\example\candles\model\BidAskEvent.class
+com\example\candles\controller\CandleController.class
+com\example\candles\model\Candle.class
+com\example\candles\storage\InMemoryCandleStore.class

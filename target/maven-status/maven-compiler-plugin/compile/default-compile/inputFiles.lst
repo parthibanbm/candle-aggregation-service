@@ -1,0 +1,7 @@
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\model\BidAskEvent.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\service\CandleAccumulator.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\model\Candle.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\CandleAggregationApplication.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\service\AggregationService.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\storage\InMemoryCandleStore.java
+D:\SourceCode\candle-aggregation-service\src\main\java\com\example\candles\controller\CandleController.java
